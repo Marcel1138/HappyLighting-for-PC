@@ -43,4 +43,4 @@ Currently, you can only turn the lamp on and off and change colors because Trion
 This project's functionality is limited due to the lack of proper documentation for Triones.
 
 Feel free to contribute or report issues!
-```
+
