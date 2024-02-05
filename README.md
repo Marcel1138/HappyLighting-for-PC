@@ -9,7 +9,7 @@ Modules:
 
 To control your LED, you need the MAC address of the LED.
 
-You find the macwith this command
+You find the mac with this command
 "$ sudo hcitool lescan"
 
 I'll be honest, so far you can only turn the lamp on and off and change the colors. 
